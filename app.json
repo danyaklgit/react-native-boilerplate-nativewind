@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "resto-buddy-native",
-    "slug": "resto-buddy-native",
+    "name": "your-app-name",
+    "slug": "your-app-name",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "resto-buddy",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
